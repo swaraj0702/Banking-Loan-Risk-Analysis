@@ -4,6 +4,15 @@
 
 This project analyzes banking loan data using Microsoft Power BI.
 
+## Dataset
+
+- 20,000 Loan Records
+- Customer Information
+- Loan Amount
+- Interest Rate
+- Credit Score
+- Employment Status
+ 
 ## Tools Used
 
 - Power BI
